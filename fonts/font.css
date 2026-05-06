@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'Aquarelle';
+	src: url('aquarelle.eot'); /* IE 9 Compatibility Mode */
+	src: url('aquarelle.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('aquarelle.woff2') format('woff2'), /* Super Modern Browsers */
+		url('aquarelle.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('aquarelle.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('aquarelle.svg#aquarelle') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Azkia';
+	src: url('azkia.eot'); /* IE 9 Compatibility Mode */
+	src: url('azkia.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('azkia.woff2') format('woff2'), /* Super Modern Browsers */
+		url('azkia.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('azkia.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('azkia.svg#azkia') format('svg'); /* Chrome < 4, Legacy iOS */
+}
